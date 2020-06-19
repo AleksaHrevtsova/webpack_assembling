@@ -43,5 +43,9 @@
     "webpack-dev-server": "^3.11.0",
     "webpack-merge": "^4.2.2",
     "webpackbar": "^4.0.0"
+  },
+  "dependencies": {
+    "faker": "^4.1.0",
+    "lodash.debounce": "^4.0.8"
   }
 }
